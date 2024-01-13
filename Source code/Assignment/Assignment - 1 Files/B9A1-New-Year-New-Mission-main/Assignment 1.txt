@@ -1,0 +1,16 @@
+Assignment tasks:
+
+1. Direct GITHUB REPOSITORY LINK on which the project 
+   will be created.
+2. Live link of the same assignment
+
+NOTE : 
+1. Code can not be changed after sumbission
+
+
+Assignment repository name : ProgrammingHero1/B9A1-New-Year-New-Mission
+
+
+For bonus: 
+1. Make the "Coming soon" section
+2. Add "Hover" effect on "Portfolio section"
